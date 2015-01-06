@@ -9,7 +9,6 @@
     "connect-multiparty": "*",
     "express": "*",
     "gulp": "*",
-    "gulp-browserify": "*",
     "gulp-concat": "*",
     "gulp-nodemon": "*",
     "gulp-stylus": "*",
